@@ -1,12 +1,17 @@
 <div style="width:40%;display:inline-block;overflow:visible">
+  <br>
+  <img src="https://github.com/SimonK1/SimonK1/blob/main/Illustration.png" alt=" " align="right" style="width:50%;"/>
+  <br>
+  <br>
+  <br>
   <h1 style="margin-left:5%; overflow:visible;width:100%;">Simon Kokavec</h1>
   <h3 style="margin-left:5%;width:100%">Student of FIIT STU</h3>
 </div>
-<div style="width:59%;display:inline-block;margin-top:5%">
-  <img src="https://github.com/SimonK1/SimonK1/blob/main/Illustration.png" alt=" " style="zoom:100%"/>
-</div>
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### Technologies ⚡
 
@@ -18,7 +23,7 @@
 - Other: ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)![Swift](https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white)![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)
 - OS: ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-
+<br>
 
 ### Current projects :skull:
 
@@ -26,7 +31,7 @@
 - Simple Shopping App ![Swift](https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white)
 - Creating portfolio page ![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white )
 
-
+<br>
 
 ### Thank you for visiting and dont forget to check out  :crescent_moon:
 
