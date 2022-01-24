@@ -1,6 +1,6 @@
 <div style="width:40%;display:inline-block;overflow:visible">
   <br>
-  <img src="https://github.com/SimonK1/SimonK1/blob/main/Illustration.png" alt=" " align="right" style="width:50%;"/>
+  <img src="https://github.com/SimonK1/SimonK1/blob/main/Illustration.png" alt=" " align="right" style="width:60%;"/>
   <br>
   <br>
   <br>
@@ -8,6 +8,9 @@
   <h3 style="margin-left:5%;width:100%">Student of FIIT STU</h3>
 </div>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
